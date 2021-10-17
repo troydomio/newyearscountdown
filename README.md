@@ -19,4 +19,5 @@ This project is a simple timer counting down the days, hours, minutes and second
 
 # Contact
 Troy Domio - <a href="https://www.linkedin.com/in/troydomio/" target="_blank">Connect with me on Linkedin :D </a>
+
 <a href="https://troydomio.github.io/newyearscountdown/" target="_blank">View Demo</a>
