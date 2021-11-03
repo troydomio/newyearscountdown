@@ -16,6 +16,11 @@ This project is a simple timer counting down the days, hours, minutes and second
 * CSS
 * HTML
 
+### Update 
+
+November 2, 2021 
+* Updated UI for mobile view to ensure all text fits within the background image and is displayed in a blocked layout.
+
 
 # Contact
 Troy Domio - <a href="https://www.linkedin.com/in/troydomio/" target="_blank">Connect with me on Linkedin :D </a>
